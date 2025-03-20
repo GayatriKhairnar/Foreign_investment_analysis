@@ -71,19 +71,6 @@ Dashboard 2: https://public.tableau.com/views/ForeignDirectInvestmentAnalytics_1
 - Visualization tools enabling effective data exploration.
 - Predictive insights for future investment planning.
 
----
 
-## Usage
-1. Clone the repository.
-2. Open the dashboard files in the preferred environment.
-3. Utilize interactive filters and visualizations to explore FDI data.
 
 ---
-
-## Contributing
-Contributions are welcome! Please submit a pull request with your enhancements or bug fixes.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
